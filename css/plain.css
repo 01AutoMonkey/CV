@@ -44,7 +44,7 @@ body.markdown-body a {
 }
 
 a {
-    background-image: url(/img/external-link0.svg);
+    background-image: url(../img/external-link0.svg);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: 0.857em;
