@@ -7,8 +7,11 @@ body.markdown-body {
     font-family: Ubuntu,Symbola,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
 
-body.markdown-body  code {
-    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace,Symbola;
+body.markdown-body code {
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+}
+body.markdown-body .symbola {
+    font-family: Symbola;
 }
 
 body.markdown-body code, body.markdown-body tt {
