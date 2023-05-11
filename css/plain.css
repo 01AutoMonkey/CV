@@ -12,6 +12,7 @@ body.markdown-body code {
 }
 body.markdown-body .symbola {
     font-family: Symbola;
+    font-weight: 400 !important;
 }
 
 body.markdown-body code, body.markdown-body tt {
