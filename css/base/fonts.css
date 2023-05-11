@@ -11,13 +11,13 @@
 /* Symbola_Hinted.woff*? */
 @font-face {
     font-family: 'Symbola';
-    src: url('/css/base/fonts/symbola/Symbola.woff2') format('woff2');
+    src: url('css/base/fonts/symbola/Symbola.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: 'Symbola';
-    src: url('/css/base/fonts/symbola/Symbola.woff2') format('woff2');
+    src: url('css/base/fonts/symbola/Symbola.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
@@ -25,31 +25,31 @@
 
 @font-face {
     font-family: 'Cantarell';
-    src: url('/css/base/fonts/cantarell/Cantarell-ExtraBold.woff2') format('woff2');
+    src: url('css/base/fonts/cantarell/Cantarell-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Cantarell';
-    src: url('/css/base/fonts/cantarell/Cantarell-Bold.woff2') format('woff2');
+    src: url('css/base/fonts/cantarell/Cantarell-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Cantarell';
-    src: url('/css/base/fonts/cantarell/Cantarell-Regular.woff2') format('woff2');
+    src: url('css/base/fonts/cantarell/Cantarell-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Cantarell';
-    src: url('/css/base/fonts/cantarell/Cantarell-Light.woff2') format('woff2');
+    src: url('css/base/fonts/cantarell/Cantarell-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Cantarell';
-    src: url('/css/base/fonts/cantarell/Cantarell-Thin.woff2') format('woff2');
+    src: url('css/base/fonts/cantarell/Cantarell-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
@@ -60,13 +60,13 @@
 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-B.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-B.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-BI.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-BI.woff2') format('woff2');
     font-weight: 700;
     font-style: italic;
 }
@@ -74,46 +74,46 @@
 /* Is 500 correct here? */
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-M.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-M.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-MI.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-MI.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-R.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-R.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-RI.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-RI.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-L.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-L.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-LI.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-LI.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/css/base/fonts/ubuntu/Ubuntu-Th.woff2') format('woff2');
+    src: url('css/base/fonts/ubuntu/Ubuntu-Th.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
@@ -126,52 +126,52 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-ExtraBold.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-ExtraBoldItalic.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-ExtraBoldItalic.woff2') format('woff2');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-Bold.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 } 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-BoldItalic.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-BoldItalic.woff2') format('woff2');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-Regular.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-Italic.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-Italic.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-Light.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-LightItalic.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-LightItalic.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
@@ -179,13 +179,13 @@
 /* What is this.. Cond? */
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-CondLight.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-CondLight.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Open Sans';
-    src: url('/css/base/fonts/opensans/OpenSans-CondLightItalic.woff2') format('woff2');
+    src: url('css/base/fonts/opensans/OpenSans-CondLightItalic.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
 }
